@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "928672331942",
+    "firebase_url": "https://nube-e8b1b.firebaseio.com",
+    "project_id": "nube-e8b1b",
+    "storage_bucket": "nube-e8b1b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:928672331942:android:bf492938a51efbcf3a9c67",
+        "android_client_info": {
+          "package_name": "com.refra.nube"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "928672331942-ov51p9be6ggutqjqpbg8lrl1hgu5d714.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVfSsX5m6hEepWkwhnrcSSe-6Dgjuk6KQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "928672331942-ov51p9be6ggutqjqpbg8lrl1hgu5d714.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
